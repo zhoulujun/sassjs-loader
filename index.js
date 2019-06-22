@@ -1,6 +1,6 @@
 'use strict';
 
-var sassJs = require('sass.js'),
+var sassJs = require('sass'),
     q = require('q'),
     _ = require('lodash'),
     path = require('path'),
